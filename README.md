@@ -1,8 +1,45 @@
 
+<h1>Day 32-34: </h1>
+
+<h3>Continued and completed week 5 of @MongoDB for @nodejs developers course. </h3>
+
+
+
+
+<h1>Day 29-31: </h1>
+
+<h3>Worked on week 5 of @MongoDB for @nodejs developers course, also started building a movie listings app using @themoviedb APIs, @reactjs and @MDBootstrap.
+</h3>
+
+
+
+
+<h1>Day 26-28: </h1>
+
+<h3>Started and completed week 4 of @MongoDB for @nodejs developers course.</h3>
+
+
+
+
+<h1>Day 23-25: </h1>
+
+<h3>Continued working on Javascript Algorithms And Data Structures on @freeCodeCamp.</h3>
+
+
+
+
+<h1>Day 19-22: </h1>
+
+<h3>Completed week 3 of @Mongodb for @nodejs developers course, also started Javascript Algorithms And Data Structures on @freecodecamp.</h3>
+
+
+
 
 <h1>Day 16-18: </h1>
 
-<h3>Started week 3 of Mongodb for nodejs developers course,  also added more routes, validations to api back-end I am currently building with @nodejs, @MongoDB and @expressjs.</h3>
+<h3>Started week 3 of Mongodb for nodejs developers course.</h3>
+<h3> Also added more routes, validations to api back-end I am currently building with @nodejs, @MongoDB and @expressjs.</h3>
+<h4>Link to work at: <a href="https://github.com/Easybuoy/cooufeedsapi">CoouFeeds API</a> </h2>
 
 
 
