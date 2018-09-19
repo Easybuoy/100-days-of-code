@@ -1,3 +1,29 @@
+<h1>Day 38-40: </h1>
+
+<h3>Started and completed week 7 of @MongoDB for @nodejs
+developers course.....  Currently working on final project. </h3 
+
+
+
+
+
+
+<h1>Day 38-40: </h1>
+
+<h3>Started and completed week 6 of @MongoDB for @nodejs developer course. </h3 
+
+
+
+
+
+<h1>Day 35-37: </h1>
+
+<h3>Movie listings app with @reactjs, @themoviedb and @MDBootstrap: I started building and integrating basic components like navigation, footer, also added routing and started use of @themoviedb APIs to fetch popular movies..... Still a long way to go. </h3>
+<h4>Link to work at: <a href="https://reactmovieapptmdb.herokuapp.com">Movie Listings App</a> </h2>
+
+
+
+
 
 <h1>Day 32-34: </h1>
 
