@@ -1,3 +1,27 @@
+
+
+<h1>Day 16-18: </h1>
+
+<h3>Started week 3 of Mongodb for nodejs developers course,  also added more routes, validations to api back-end I am currently building with @nodejs, @MongoDB and @expressjs.</h3>
+
+
+
+
+
+<h1>Day 12-15: </h1>
+
+<h3>Started and completed week 2 of @MongoDB for @nodejs developers course</h3>
+
+
+
+<h1>Day 11: </h1>
+
+<h3>Started @MongoDB for @nodejs developers course at <a href="http://university.mongodb.com/">MongoDb University</a> </h3>
+
+
+
+
+
 <h1>Day 9-10: </h1>
 
 <h3>Completed personal portfolio project on @freeCodeCamp</h3>
