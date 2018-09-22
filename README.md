@@ -1,3 +1,8 @@
+<h1>Day 44-46: </h1>
+
+<h3>Worked on finishing final project of @MongoDB for @nodejs developers course</h3 
+
+
 <h1>Day 41-43: </h1>
 
 <h3>Started and completed week 7 of @MongoDB for @nodejs
