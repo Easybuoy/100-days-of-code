@@ -1,3 +1,14 @@
+<h1>Day 56-59: </h1>
+
+<h3>Read up on web services and also continued practicing writing tests with mocha and chai. </h3>
+
+
+
+<h1>Day 51-55: </h1>
+
+<h3>Got into writing tests with mocha and chai. </h3>
+
+
 
 <h1>Day 47-50: </h1>
 
